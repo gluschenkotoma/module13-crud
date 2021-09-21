@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Bob Marly",
+      "age": 28,
+      "id": "GTYwQc7"
+    }
+  ],
+  "products": [
+    {
+      "id": "sbvjhsbvhb",
+      "name": "Twix",
+      "count": 10
+    }
+  ]
+}
