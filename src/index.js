@@ -4,4 +4,6 @@ import './styles/styles.scss'
 import './js/functions'
 import './js/classicFetch'
 // import './js/crud'
-import './js/async'
+
+// import './js/async'
+import './js/test'
